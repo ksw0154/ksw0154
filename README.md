@@ -1,4 +1,3 @@
-
 ## 🙆 Frontend Developer 김상원입니다.
 
 ### Hi there 👋
@@ -20,9 +19,7 @@ React에 관심이 많습니다.
 ### 🌈 Interest
 
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/NestJs-BA3241?style=flat-square&logo=Nestjs&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 <!-- ### 👇 Contact me -->

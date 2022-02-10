@@ -1,4 +1,3 @@
-<div align="center">
 
 ## 🙆 Frontend Developer 김상원입니다.
 
@@ -27,5 +26,3 @@ React에 관심이 많습니다.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 <!-- ### 👇 Contact me -->
-
-</div>
